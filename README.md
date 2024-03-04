@@ -1,4 +1,4 @@
-<h1 align="center">¡Hey 👋! Soy Jonatan 👨🏿‍💻</h1>
+<h1 align="center">¡Hey 👋🏿! Soy Jonatan 👨🏿‍💻</h1>
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/>
 
 ![Banner gitHub Jonatan Rodriguez](https://github.com/Jonatan-Rodriguez/Jonatan-Rodriguez/assets/137853210/fdf672b1-240a-44e9-89b0-e12eb2e73e02)
