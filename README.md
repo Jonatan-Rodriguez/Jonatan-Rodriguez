@@ -29,7 +29,7 @@
 ```js
 const Jonatan-Rodriguez = {
   code: {
-    languages: [ "JavaScript"<!---, "TypeScript"---> ],
+    languages: [ "JavaScript" ],
     database: [ "PostgreSQL", MySQL ],
     backEnd: [ "NodeJs", "Express", "Sequelize" ],
     frontEnd: [ "React", "Redux", "Toolkit", "Hooks", "Styled-Component", "CSS", "SASS" ]
