@@ -1,8 +1,7 @@
 <h1 align="center">¡Hey 👋! Soy Jonatan 👨🏿‍💻</h1>
-<h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
+<h3 align="center">Buenos Aires, Argentina🌎</h3><br/>
 
-<!---![Daiana Grillia (1)](https://user-images.githubusercontent.com/94879125/214957275-f4cd4523-e46f-4e61-b8cf-9ccad8f9f66b.gif)-->
-
+![Banner gitHub Jonatan Rodriguez](https://github.com/Jonatan-Rodriguez/Jonatan-Rodriguez/assets/137853210/fdf672b1-240a-44e9-89b0-e12eb2e73e02)
 
 <h2>Sobre mi</h2>
 <p>
