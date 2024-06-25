@@ -29,9 +29,9 @@
 const Jonatan-Rodriguez = {
   code: {
     languages: [ "JavaScript" ],
-    database: [ "PostgreSQL", "MySQL" ],
+    database: [ "PostgreSQL" ],
     backEnd: [ "NodeJs", "Express", "Sequelize" ],
-    frontEnd: [ "React", "Redux", "Toolkit", "Hooks", "Styled-Component", "CSS", "SASS" ]
+    frontEnd: [ "React", "Redux", "Styled-Component", "CSS", "SASS" ]
   },
   contact: {
     email: "jonatarodriguez1998@gmail.com"
